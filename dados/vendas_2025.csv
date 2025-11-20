@@ -1,0 +1,16 @@
+Data;Vendedor;Produto;Quantidade;Preço Unitário;Região
+01/11/2025;Ana Silva;Notebook Dell;2;4500.00;Sudeste
+01/11/2025;Carlos Santos;Mouse Logitech;15;89.90;Nordeste
+02/11/2025;Maria Oliveira;iPhone 15;1;6800.00;Sul
+03/11/2025;Ana Silva;"Monitor 27""";5;1299.00;Sudeste
+03/11/2025;João Pereira;Teclado Mecânico;8;379.90;Centro-Oeste
+04/11/2025;Carlos Santos;HD Externo 2TB;10;459.00;Nordeste
+05/11/2025;Maria Oliveira;AirPods Pro;6;1890.00;Sul
+06/11/2025;Ana Silva;Notebook Dell;3;4500.00;Sudeste
+07/11/2025;João Pereira;Webcam 4K;4;599.00;Centro-Oeste
+08/11/2025;Carlos Santos;Mouse Logitech; b20;89.90;Nordeste
+09/11/2025;Maria Oliveira;iPhone 15;2;6800.00;Sul
+10/11/2025;Ana Silva;"Monitor 27""";7;1299.00;Sudeste
+11/11/2025;João Pereira;Teclado Mecânico;12;379.90;Centro-Oeste
+12/11/2025;Carlos Santos;HD Externo 2TB;8;459.00;Nordeste
+13/11/2025;Ana Silva;Notebook Dell;4;4500.00;Sudeste
